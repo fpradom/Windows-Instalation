@@ -1,0 +1,6 @@
+Start Stable Diffusion UI installation
+    import cv2
+  File "C:\stable-diffusion-ui\stable-diffusion\env\Lib\site-packages\cv2\__init__.py", line 3, in <module>
+    from .cv2 import *
+ImportError: DLL load failed while importing cv2: No se puede encontrar el módulo especificado.
+Presione una tecla para continuar . . .
